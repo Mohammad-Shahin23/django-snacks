@@ -3,8 +3,8 @@
 ## Author: Mohammad Shahin.
 
 ## Links and Resources
-PR link (lab 09)
-PR link (lab 07 + lab 08)
+PR link ( https://github.com/Mohammad-Shahin23/django-snacks/pull/1 )
+PR link ( https://github.com/Mohammad-Shahin23/django-snacks/blob/main/README.md )
 
 ## Setup
 You need to install the following:
